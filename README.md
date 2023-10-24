@@ -1,4 +1,4 @@
-# ISSUE Tracker 🔎
+# ISSUE Tracker 🔎 
 
 Here is the glimpse of the website:
 
